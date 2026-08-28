@@ -39,4 +39,4 @@ A **`for` loop** is used to iterate through the list of questions. Instead of wr
 4. Navigate to the directory where the file is saved.
 5. Run the script:
    ```bash
-   python kbc_game.py
+   KBC.py
