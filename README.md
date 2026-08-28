@@ -19,7 +19,6 @@ At the core of this quiz engine are three essential programming concepts that wo
 ### 1. Lists (Data Storage)
 We use **Lists** to store the game's data. This includes:
 *   A list of nested elements (or dictionaries) containing the questions, four multiple-choice options, and the correct answer.
-*   A separate list to represent the escalating prize money ladder (e.g., ₹1,000, ₹2,000, ₹3,000... up to ₹7 Crore).
 
 ### 2. For Loops (Game Progression)
 A **`for` loop** is used to iterate through the list of questions. Instead of writing repetitive code for each question, the loop seamlessly pulls the next question, displays the options, and pauses for the user's answer before moving on to the next round.
